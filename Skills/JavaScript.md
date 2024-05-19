@@ -1,24 +1,24 @@
 ## JavaScript
 
 - Language
-  - `Object` 🖐️	used
-  - `Function` 🖐️ used
-  - `Boolean` 🖐️ used
-  - `Number` 🖐️ used
-  - `BigInt` 🎓	known
-  - `String` 🖐️ used
-  - `Symbol` 🎓	known
-  - `Infinity` 🎓 known
-  - `NaN`    🎓	known
-  - `undefined` 🎓 known
-  - `null` 🖐️ used
-  - `this` 🖐️ used
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
-  - `...spread` 🎓known
-  - `...rest` 👂 heard
-  - `typeof` 🖐️ used
-  - Destructuring 👂 heard
-  - Generators👂 heard
+  - `...spread`: 🎓 known
+  - `...rest`: 👂 heard
+  - `typeof`: 🖐️ used
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
   - Iterators
   - Async generator
   - Async iterator
@@ -29,27 +29,27 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters 👂 heard
+  - Getters and setters: 👂 heard
   - `__proto__`
   - `prototype`
-  - Equality operators 🖐️ used
-  - Logical operators 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators 🎓 known
-  - Ternary operator 🖐️ used
-  - `void` 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
   - `yield`
   - `await`
-  - Template literal 🖐️ used
-  - Strict mode 👂 heard
-  - Hoisting 👂 heard
-  - `delete` 🖐️ used
-  - `in` 🎓known
-  - `super` 👂 heard
-  - `eval` 👂 heard
-  - `static` 👂 heard
-  - `Number.parseInt` 🖐️ used
-  - `Number.parseFloat` 🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 👂 heard
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🎓 known
+  - `super`: 👂 heard
+  - `eval`: 👂 heard
+  - `static`: 👂 heard
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,50 +59,50 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` 🖐️ used
-  - `while` 🖐️ used
-  - `do..while` 🖐️ used
-  - `for` 🖐️ used
-  - `for..in` 🖐️ used
-  - `for..of` 🎓known
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🎓 known
   - `for await`
-  - `throw` 🖐️ used
-  - `break` 🖐️ used
-  - `continue` 🖐️ used
-  - `import` 🖐️ used
-  - `export` 🖐️ used
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch` 🎓known
-  - `switch` 🖐️ used
-  - `class`  🎓known
-  - `extends` 🎓known
-  - `with` 👂 heard
-  - `new` 🖐️ used
+  - `try..catch`: 🎓 known
+  - `switch`: 🖐️ used
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
+  - `with`: 👂 heard
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function 🖐️ used
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration 🖐️ used
-  - Function expression 🖐️ used
-  - Default parameters 🎓known
-  - Functional object 🎓known
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🎓 known
+  - Functional object: 🎓 known
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` 🖐️ used
-  - `Map`  👂 heard
-  - `Set`  👂 heard
+  - `Array`: 🖐️ used
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays 👂 heard
+  - Typed arrays: 👂 heard
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` 🎓known
-  - `Math` 🖐️ used
+  - `Date`: 🎓 known
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -110,8 +110,8 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 👂 heard
-  - `console` 🖐️ used
+  - `Promise`: 👂 heard
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8

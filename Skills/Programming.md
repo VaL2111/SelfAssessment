@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm 🖐️ used
-  - Syntax 🖐️ used
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
   - Module
   - Library
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 🖐️ used
-  - Identifier 🖐️ used
-  - Variable 🖐️ used
-  - Constant 🖐️ used
-  - Scalar 🖐️ used
-  - Literal 🖐️ used
-  - Expression 🖐️ used
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function 🖐️ used
-  - Procedure 🎓known
-  - Method 🎓known
-  - Class 🎓known
+  - Function: 🖐️ used
+  - Procedure: 🎓 known
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototype
   - Event
   - Type
@@ -59,18 +59,18 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case 🖐️ used
-  - Snake case 🖐️ used
-  - Kebab case 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
-  - Return early 🖐️ used
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types 🖐️ used
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
-  - Strong typing 🖐️ used
-  - Weak typing 🖐️ used
+  - Strong typing: 🖐️ used
+  - Weak typing: 🖐️ used
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -81,23 +81,23 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🖐️ used
-  - Argument 🖐️ used
-  - Parameter 🖐️ used
-  - Pure function 🖐️ used
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
   - Lambda expression
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion 🖐️ used
-  - Tail call optimisation 🖐️ used
+  - Recursion: 🖐️ used
+  - Tail call optimisation: 🖐️ used
   - Callback
   - Listener
   - Composition
   - Pipe
-  - Memoize 🖐️ used
+  - Memoize: 🖐️ used
   - Wrapper
   - Functor
   - Monad
@@ -105,24 +105,24 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array 🖐️ used
-  - Structure 🖐️ used
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
-  - Instance 👂 heard
-  - Object 🎓known
+  - Instance: 👂 heard
+  - Object: 🎓 known
   - Collection
-  - Set 👂 heard
-  - Hash table 👂 heard
-  - Linked list 🖐️ used
-  - Doubly list 🖐️ used
+  - Set: 👂 heard
+  - Hash table: 👂 heard
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
   - Unrolled list
-  - Circular list 🎓known
-  - Queue 🖐️ used
-  - Stack 🖐️ used
-  - Deque 👂 heard
-  - Tree 🎓known
-  - Graph 🖐️ used
+  - Circular list: 🎓 known
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 👂 heard
+  - Tree: 🎓 known
+  - Graph: 🖐️ used
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,17 +132,17 @@
   - JSON5
   - YAML
 - Networking
-  - DNS 🎓known
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4 🎓known
-  - IPv6 🎓known
-  - NAT 🎓known
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler 🖐️ used
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,44 +157,44 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 🎓 known
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
-  - Refactoring 🎓 known
-  - Code review 🎓 known
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git 🎓 known
-  - Github 🎓 known
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code 🖐️ used
-  - Soft code 🎓 known
-  - Cryptic code 🎓 known
+  - Hard code: 🖐️ used
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
   - Improbability factor
   - Accidental complexity
-  - Action at a distance 🎓 known
-  - Spaghetti 🎓 known
+  - Action at a distance: 🎓 known
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
-  - Dead code 🎓 known
-  - Unreachable code 🎓 known
-  - Duplicate code  🖐️ used
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
-  - Nested loops 🎓 known
-  - Long method/function/procedure 🎓 known
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
-  - Temporary field 🎓 known
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers 🎓 known
+  - Drivers: 🎓 known
   - Kernel
-  - Ring 🎓 known
-  - Virtual memory 🖐️ used
+  - Ring: 🎓 known
+  - Virtual memory: 🖐️ used
   - File system
-  - Linux 🎓 known
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS 🎓 known
-  - Windows 🖐️ used
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

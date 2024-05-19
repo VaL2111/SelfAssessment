@@ -27,15 +27,15 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
   - Static method
-  - Method 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters 👂 heard
-  - Public fields 👂 heard
-  - Private fields 👂 heard
-  - Field declarations 👂 heard
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
+  - Field declarations: 👂 heard
   - Inheritance
   - Parent class
   - Polymorphism
@@ -44,7 +44,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance 👂 heard
+  - Instance: 👂 heard
   - Introspection
   - Reflection
   - The diamond problem
